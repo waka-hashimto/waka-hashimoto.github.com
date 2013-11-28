@@ -1,4 +1,4 @@
-category,category_id,subcategory,subcategory_id,amount,year
+Category,category_id,Subcategory,subcategory_id,amount,year
 議会費,1,議会費,1,449964000,2013
 総務費,2,総務管理費,2,6288440000,2013
 総務費,2,徴税費,3,761863000,2013
